@@ -20,7 +20,7 @@ for (var k in interfaces) {
 const questionTools = [
     "➥ Information",
     "➥ Bot Like Timeline",
-    "➥ Bot Like Target User",
+    "➥ Like Bot Target User",
     "➥ Mass Delete Post/Photo",
 
     "➥ F-L -> Followers Target",
@@ -29,14 +29,11 @@ const questionTools = [
     "➥ F-L-C -> Followers Target",
     "➥ F-L-C -> Followers Target [BETA]",
 
-    "➥ F-L-C -> Followers Target v2",
-
-    "➥ F-L-DM -> Followers Target",
-    "➥ F-L-DM -> Followers Target [BETA]",
+    "➥ F-L-C -> Followers Target v2",                                 
+    "➥ F-L-DM -> Followers Target",                                       "➥ F-L-DM -> Followers Target [BETA]",
 
     "➥ F-L-C -> Hashtag Target",
-    "➥ F-L-C -> Location Target",
-
+    "➥ F-L-C -> Location Target",                                     
     "➥ Unfollow All Following",
     "➥ Unfollow Not Followback",
     "\n",
@@ -73,7 +70,7 @@ const main = async () => {
     }
 };
 
-console.log(chalk`{bold.green
+console.log(chalk`{bold.magenta
 
 ██╗███╗░░██╗░██████╗████████╗░█████╗░
 ██║████╗░██║██╔════╝╚══██╔══╝██╔══██╗
@@ -88,22 +85,20 @@ console.log(chalk`{bold.green
 ██╔══██╗██║░░██║░░░██║░░░
 ██████╦╝╚█████╔╝░░░██║░░░
 ╚═════╝░░╚════╝░░░░╚═╝░░░
+}`);
+
+console.log(chalk`{bold.green
   Ξ TITLE  : InstaBot v4.0
-  Ξ Instagram  : nihh__all
+  Ξ Instagram  : @nihh____al
+  Ξ GitHub   :  darkhacker34
   Ξ UPDATE : Wednesday, March 27, 2025
 
-  116 111 111 108 115 105 103  118 51 
+  116 111 111 108 115 105 103  118 51
   }`);
-console.log(chalk`{bold.red   •••••••••••••••••••••••••••••••••••••••••}`);
-console.log("  Ξ START  : ".bold.red + moment().format("D MMMM YYYY, h:mm:ss a"));
-console.log("  Ξ YPATH  : ".bold.red + userHome);
-console.log("  Ξ YOUIP  : ".bold.red + addresses);
-console.log(chalk`{bold.red   •••••••••••••••••••••••••••••••••••••••••}`);
-console.log(chalk`{bold.yellow
-  Github ••••••••••••••••••••••••••••••••••
-  : @darkhacker34 . @ccocot . @aldinp16
-  : @rifqihaidar @dilame . @ikiganteng . @masokky 
-  •••••••••••••••••••••••••••••••••••••••••
-  : IPutuJayaAdiPranata & DedeKurniawan
-  : Thanks To All Member Sharing Gils Blog }\n`);
+console.log(chalk`{bold.cyan   •••••••••••••••••••••••••••••••••••••••••}`);
+console.log("  Ξ START  : ".bold.cyan + moment().format("D MMMM YYYY, h:mm:ss a"));
+console.log("  Ξ YPATH  : ".bold.cyan + userHome);
+console.log("  Ξ YOUIP  : ".bold.cyan + addresses);
+console.log(chalk`{bold.cyan   •••••••••••••••••••••••••••••••••••••••••}`);
+
 main();
