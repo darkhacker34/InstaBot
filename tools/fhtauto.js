@@ -18,7 +18,7 @@ const { chalk, inquirer, _, fs, instagram, print, delay } = require("./index.js"
 ╚═════╝░░╚════╝░░░░╚═╝░░░ 
 
   Ξ TITLE  : Folow Like Comment (Hastag Target)
-  Ξ UPDATE : Wednesday, August 4, 2021 (GMT+8)
+  Ξ UPDATE : Wednesday, March 27, 2024 (GMT+8)
            : TESTED "OK" BUG? YouTellMe!
     }`
     );
