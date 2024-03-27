@@ -74,15 +74,23 @@ const main = async () => {
 };
 
 console.log(chalk`{bold.green
-  ▄▄▄▄▄            ▄▄▌  .▄▄ · ▪   ▄▄ • 
-  •██  ▪     ▪     ██•  ▐█ ▀. ██ ▐█ ▀ ▪
-   ▐█.▪ ▄█▀▄  ▄█▀▄ ██▪  ▄▀▀▀█▄▐█·▄█ ▀█▄
-   ▐█▌·▐█▌.▐▌▐█▌.▐▌▐█▌▐▌▐█▄▪▐█▐█▌▐█▄▪▐█
-   ▀▀▀  ▀█▄▀▪ ▀█▄▀▪.▀▀▀  ▀▀▀▀ ▀▀▀·▀▀▀▀ 
 
-  Ξ TITLE  : toolsig v4.0
-  Ξ EMAIL  : officialputuid@hack.id
-  Ξ UPDATE : Wednesday, August 4, 2021
+██╗███╗░░██╗░██████╗████████╗░█████╗░
+██║████╗░██║██╔════╝╚══██╔══╝██╔══██╗
+██║██╔██╗██║╚█████╗░░░░██║░░░███████║
+██║██║╚████║░╚═══██╗░░░██║░░░██╔══██║
+██║██║░╚███║██████╔╝░░░██║░░░██║░░██║
+╚═╝╚═╝░░╚══╝╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝
+
+██████╗░░█████╗░████████╗
+██╔══██╗██╔══██╗╚══██╔══╝
+██████╦╝██║░░██║░░░██║░░░
+██╔══██╗██║░░██║░░░██║░░░
+██████╦╝╚█████╔╝░░░██║░░░
+╚═════╝░░╚════╝░░░░╚═╝░░░
+  Ξ TITLE  : InstaBot v4.0
+  Ξ Instagram  : nihh__all
+  Ξ UPDATE : Wednesday, March 27, 2025
 
   116 111 111 108 115 105 103  118 51 
   }`);
@@ -93,8 +101,8 @@ console.log("  Ξ YOUIP  : ".bold.red + addresses);
 console.log(chalk`{bold.red   •••••••••••••••••••••••••••••••••••••••••}`);
 console.log(chalk`{bold.yellow
   Github ••••••••••••••••••••••••••••••••••
-  : @ccocot . @aldinp16 . @rifqihaidar
-  : @dilame . @ikiganteng . @masokky
+  : @darkhacker34 . @ccocot . @aldinp16
+  : @rifqihaidar @dilame . @ikiganteng . @masokky 
   •••••••••••••••••••••••••••••••••••••••••
   : IPutuJayaAdiPranata & DedeKurniawan
   : Thanks To All Member Sharing Gils Blog }\n`);
