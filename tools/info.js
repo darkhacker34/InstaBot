@@ -47,7 +47,7 @@ const main = async () => {
                     chalk`{bold.green
   MIT License
 
-  Copyright (c) 2021 officialputuid
+  Copyright (c) 2024 darkhacker34 
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
@@ -72,11 +72,9 @@ const main = async () => {
             case "❆ Me":
                 print(
                     chalk`{bold.green
-  Instagram (https://instagram.com/officialputuid)
-  Youtube   (https://youtube.com/c/officialputuid)
-  Facebook  (https://facebook.con/officialputuid)
-  Twitter   (https://twitter.com/officialputuid)
-  Github    (https://github.com/officialputuid)
+  Instagram (https://www.instagram.com/nihh____al)
+  Youtube   (https://www.youtube.com/@hackeroli)
+  Github    (https://github.com/darkhacker34)
 
   Donation? Trakteer.id/officialputuid}`
                 );
