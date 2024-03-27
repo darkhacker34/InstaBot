@@ -1,4 +1,4 @@
-# toolsig (Instagram Tools)
+# InstaBot (Instagram Tools)
 * Instagram (also called IG or Insta) is a photo and video sharing application that allows users to take photos, take videos, apply digital filters and share them to various social networking services, including Instagram's own.
 * Instagram Tools Based on NodeJS (This script or code was created by ccocot - Aldi Nugraha).
 
@@ -12,19 +12,11 @@ $ [Warning](#WARNING)
 $ [License](#LICENSE)
 $ [Other Information](#OTHER-INFORMATION)
 
-## Video Tutorial (WINDOWS, C9/CA & TERMUX) [https://youtu.be/J7WbsfZ7z6I]
+## Video Tutorial TERMUX [Soon...]
 
 ## Default or Basic Usage
 	$ git clone https://github.com/darkhacker34/InstaBot.git
 	$ cd toolsig
-	$ npm i
-	$ node index.js
-	
-## Tutorial on PC/LAPTOP [OS]
-	# Download & Install Git for Windows (32/64bit)
-	# Download & Install NodeJs for Windows (Recommend Use NodeJS LTS (32/64bit))
-	# Download File toolsig (https://s.id/2yGC6) & Extract the file
-	# Right Click (Mouse/Touchpad) In "toolsig-master" Folder & Choose Git Bash Here!
 	$ npm i
 	$ node index.js
 
@@ -77,3 +69,4 @@ $ [Other Information](#OTHER-INFORMATION)
 
 ## LICENSE
 	☑ This project is licensed under MIT License. https://opensource.org/licenses/MIT
+ 
