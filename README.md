@@ -15,7 +15,7 @@ $ [Other Information](#OTHER-INFORMATION)
 ## Video Tutorial (WINDOWS, C9/CA & TERMUX) [https://youtu.be/J7WbsfZ7z6I]
 
 ## Default or Basic Usage
-	$ git clone https://github.com/officialputuid/toolsig.git
+	$ git clone https://github.com/darkhacker34/InstaBot.git
 	$ cd toolsig
 	$ npm i
 	$ node index.js
@@ -32,7 +32,7 @@ $ [Other Information](#OTHER-INFORMATION)
 	$ pkg upgrade && pkg update
 	$ pkg install git
 	$ pkg install nodejs-lts
-	$ git clone https://github.com/officialputuid/toolsig.git
+	$ git clone https://github.com/darkhacker34/InstaBot.git
 	$ cd toolsig
 	$ npm i
 	$ node index.js
@@ -40,7 +40,7 @@ $ [Other Information](#OTHER-INFORMATION)
 ## Tutorial on C9io/CodeAnywhere [WEB-CLOUD-BASED]
 	$ Login c9.io/login | https://codeanywhere.com/login
 	$ Select & Install Workspace + Package NodeJS
-	$ git clone https://github.com/officialputuid/toolsig.git
+	$ git clone https://github.com/darkhacker34/InstaBot.git
 	$ cd toolsig
 	$ npm i
 	$ node index.js
