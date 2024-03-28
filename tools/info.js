@@ -47,7 +47,7 @@ const main = async () => {
                     chalk`{bold.green
   MIT License
 
-  Copyright (c) 2024 darkhacker34 
+  Copyright (c) 2024 darkhacker34
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
@@ -76,7 +76,7 @@ const main = async () => {
   Youtube   (https://www.youtube.com/@hackeroli)
   Github    (https://github.com/darkhacker34)
 
-  Donation? Trakteer.id/officialputuid}`
+  Donation? Contact via Telegram @nihh_all}`
                 );
                 break;
 
@@ -87,4 +87,3 @@ const main = async () => {
 };
 console.log("\n");
 main();
-//by 1dcea8095a18ac73b764c19e40644b52 116 111 111 108 115 105 103  118 51
