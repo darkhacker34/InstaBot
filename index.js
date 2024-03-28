@@ -18,9 +18,9 @@ for (var k in interfaces) {
 // DETECT IP *END!
 
 const questionTools = [
-    "➟ Information",
+    "➟ Information ✔",
     "➟ Bot Like Timeline",
-    "➟ Like Bot Target User",
+    "➟ Bot Like Target User",
     "➟ Mass Delete Post/Photo",
 
     "➟ F-L -> Followers Target",
