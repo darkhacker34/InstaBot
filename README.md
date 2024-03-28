@@ -5,35 +5,29 @@
 [![Build](https://img.shields.io/badge/Codename_-_toolsig_v4.0-brightgreen.svg)]()
 [![License](http://img.shields.io/:license-MIT-brightgreen.svg?style=flat)](LICENSE)
 
-## Table of Contents
-$ [Default or Basic Usage](#Default-or-Basic-Usage)
-$ [Information Tools](#INFORMATION-TOOLS)
-$ [Warning](#WARNING)
-$ [License](#LICENSE)
-$ [Other Information](#OTHER-INFORMATION)
 
 ## Video Tutorial TERMUX [Soon...]
 
 ## Default or Basic Usage
 	$ git clone https://github.com/darkhacker34/InstaBot.git
-	$ cd toolsig
+	$ cd InstaBot
 	$ npm i
 	$ node index.js
 
 ## Tutorial on Termux [ANDROID]
-	$ pkg upgrade && pkg update
-	$ pkg install git
-	$ pkg install nodejs-lts
-	$ git clone https://github.com/darkhacker34/InstaBot.git
-	$ cd toolsig
-	$ npm i
-	$ node index.js
+	pkg upgrade && pkg update
+	pkg install git
+	pkg install nodejs-lts
+	git clone https://github.com/darkhacker34/InstaBot.git
+	cd InstaBot
+	npm i
+	node index.js
 
 ## Tutorial on C9io/CodeAnywhere [WEB-CLOUD-BASED]
 	$ Login c9.io/login | https://codeanywhere.com/login
 	$ Select & Install Workspace + Package NodeJS
 	$ git clone https://github.com/darkhacker34/InstaBot.git
-	$ cd toolsig
+	$ cd InstaBot
 	$ npm i
 	$ node index.js
 
